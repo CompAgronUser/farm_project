@@ -1,3 +1,4 @@
+# demo function
 convert_temperature <- function(temperature, degree) {
 	if (degree == "F") {
 		answer <- temperature * 9 / 5 + 32
